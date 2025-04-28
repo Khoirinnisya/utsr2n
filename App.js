@@ -87,7 +87,7 @@ const App = () => {
 const gaya = StyleSheet.create({
   layar: { flex: 1, backgroundColor: "#f8f8f8" },
   judul: {
-    fontSize: 24,
+    fontSize: 23,
     fontWeight: "bold",
     textAlign: "center",
     marginVertical: 20,
